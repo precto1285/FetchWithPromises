@@ -1,7 +1,7 @@
 const http = new easyHTTP;
 
 // Get Users
-// const users = http.get('https://jsonplaceholder.typicode.com/users')
+// http.get('https://jsonplaceholder.typicode.com/users')
 //   .then(data => console.log(data))
 //   .catch(error => console.log(err));
 
